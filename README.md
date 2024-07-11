@@ -20,8 +20,8 @@ This project was made with data collected from datanerd.tech
 5. What are the most optimal skills to learn?
 
 # Technologies Applied
-- **SQL:**
-- **VSCODE**
+- **SQL;**
+- **VSCODE; and**
 - **PostgreSQL**
 
 # The Analysis
@@ -116,9 +116,9 @@ Combining insights from demand and salary data, this analysis identifies skills 
 
 # What I Learned
 
-- **🧩 Advanced Query Construction:** Proficient in intricate SQL operations, adeptly merging tables and utilizing WITH clauses for sophisticated temporary table management.
-- **📊 Data Aggregation:** Comfortable with GROUP BY and skilled at employing aggregate functions like COUNT() and AVG() to summarize data effectively.
-- **💡 Analytical Mastery:** Enhanced my ability to transform real-world challenges into actionable insights through SQL, mastering the art of puzzle-solving with data.
+- ** Advanced Query Construction:** Proficient in intricate SQL operations, adeptly merging tables and utilizing WITH clauses for sophisticated temporary table management.
+- ** Data Aggregation:** Comfortable with GROUP BY and skilled at employing aggregate functions like COUNT() and AVG() to summarize data effectively.
+- ** Analytical Mastery:** Enhanced my ability to transform real-world challenges into actionable insights through SQL, mastering the art of puzzle-solving with data.
 
 # Conclusions
 
