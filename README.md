@@ -5,6 +5,7 @@ This project was made with data collected from datanerd.tech
 # Content
 1. sql_load - contains the code used to create the SQL tables and the Database
 2. project_queries - contains the SQL code to perform the queries in order to solve the businesses problems
+
 2.1. CSV_queries_results - contains the CSV files originated from the queries
 3. csv_files - contains the data loaded into the SQL Tables
 
