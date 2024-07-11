@@ -3,10 +3,10 @@
 This project was made with data collected from datanerd.tech
 
 # Content
-# sql_load - contains the code used to create the SQL tables and the Database
-# project_queries - contains the SQL code to perform the queries in order to solve the businesses problems
-#### CSV_queries_results - contains the CSV files originated from the queries
-# csv_files - contains the data loaded into the SQL Tables
+-> sql_load - contains the code used to create the SQL tables and the Database
+-> project_queries - contains the SQL code to perform the queries in order to solve the businesses problems
+----> CSV_queries_results - contains the CSV files originated from the queries
+-> csv_files - contains the data loaded into the SQL Tables
 
 ### The questions I wanted to answer through my SQL queries were:
 
